@@ -1,5 +1,5 @@
 # Change Log
-
+latest changes for the [mimic app](mimicrobot.tk)
 ## v1.0.16
 10/27/17
 - [x] added change log [(issue)](../../issues/8)
