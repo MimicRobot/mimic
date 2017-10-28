@@ -4,6 +4,9 @@ latest changes for the [mimic app](mimicrobot.tk)
 10/27/17
 - [x] added change log [(issue)](../../issues/8)
 - [x] made version number easier to see **its in the upper right corner** [(issue)](../../issues/8)
+- [x] calibration saves state and let you pickup where you left off - if you exit [(issue)](../../issues/5)
+- [x] Handfull of caliberation bug fixes
+- [ ] there are still some more caliration bugs I'll get to for next release
 
 ## v1.0.15
 10/20/17
