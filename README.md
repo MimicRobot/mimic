@@ -1,5 +1,9 @@
 # Change Log
 latest changes for the [mimic app](mimicrobot.tk)
+## v1.0.17 (not released yet)
+11/3/17
+- [x] bug fix [(issue)](../../issues/12)
+
 ## v1.0.16
 10/27/17
 - [x] added change log [(issue)](../../issues/8)
