@@ -4,6 +4,8 @@ latest changes for the [mimic app](mimicrobot.tk)
 11/3/17
 - [x] bug fix [(issue)](../../issues/12)
 - [x] added a simulator (click connection link from menu bar and press Launch Simulator button)
+- [x] bug fix [(issue)](../../issues/1)
+- [x] added scratch sample game in My Documents\Mimic\Scratch folder
 
 ## v1.0.16
 10/27/17
