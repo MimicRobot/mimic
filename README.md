@@ -6,6 +6,10 @@ latest changes for the [mimic app](mimicrobot.tk)
 - [x] recognize caliberation where caliberation finishes + caliberation still flashes
 - [x] reset robot settings when robot settings module is used
 - [x] 3D simulator doesn't show after launch when connected to real arm
+- [x] bug fix [(issue)](../../issues/15)
+- [x] bug fix [(issue)](../../issues/14)
+- [x] bug fix [(issue)](../../issues/11)
+- [x] bug fix [(issue)](../../issues/7)
 
 ## v1.0.17
 11/3/17
