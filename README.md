@@ -1,5 +1,11 @@
 # Change Log
 latest changes for the [mimic app](mimicrobot.tk)
+## v1.0.19
+1/26/18
+- [x] start of the drawing module
+- [x] edit tools for motion studio
+- [x] scratch integration improvement
+
 ## v1.0.18
 1/16/18
 - [x] various caliberation bug fixes
