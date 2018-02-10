@@ -1,5 +1,30 @@
 # Change Log
 latest changes for the [mimic app](mimicrobot.tk)
+## v1.0.20
+2/9/18
+- [x] full touch screen support
+- [x] backup and restore arm settings
+- [x] easier rename of recordings - double-click
+- [x] named keyframes
+- [x] insert & copy key frames
+- [x] remove keyframes for spesific servos
+- [x] drag and drop keyframes between recordings
+- [x] save and revert recording properly
+- [x] bug fix: scrub to end, then press play was playing last .1 sec of recording
+- [x] slice tool
+- [x] add realistic simulator speed
+- [x] bug fix: when 1 keyframe total complete is 1 (no slice tool)
+- [x] bug fix: when normalizing recording time and play is pressed - exception
+- [x] change position in sim while servos on
+- [x] make update position more accurate
+- [x] added reset arm button to connection panel
+- [x] use knob to control recording a little more
+- [x] code "automatic positioning" recording type
+- [x] Added ability to use IK in recordings
+- [x] real time recording while servos are on - watched a kid try this
+- [x] improved trail rendering
+- [x] hot-keys [delete, space, wasd]
+
 ## v1.0.19
 1/26/18
 - [x] start of the drawing module
