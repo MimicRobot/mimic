@@ -1,5 +1,13 @@
 # Change Log
 latest changes for the [mimic app](mimicrobot.tk)
+## v1.0.21
+2/14/18
+- [x] improved scrubbing support
+- [x] Added Record & Playback module - for kids to play
+- [x] ability to adjust real time recordings
+- [x] more hot keys
+- [x] live speed adjustments while playing
+
 ## v1.0.20
 2/9/18
 - [x] full touch screen support
