@@ -1,5 +1,25 @@
 # Change Log
 latest changes for the [mimic app](mimicrobot.tk)
+## v1.0.22
+3/2/18
+- [x] added "pick and place" recording type
+- [x] can convert from one recording type to another
+- [x] can replace a real time recording
+- [x] update scrub UI when turning knob
+- [x] improved "recorded servo" button
+- [x] made trace line transparent and avoid hit detection
+- [x] maintain lighting direction when rotating camera
+- [x] bug fix: updating movements analysis should not stop playback
+- [x] bug fix: safety doesn't respect jaw movement in scrub and target
+- [x] bug fix: remove keyframes not working right
+- [x] bug fix: firmware update 1.0.3: delay sometimes on synchronized movements
+- [x] drag drop recordings order is maintained and folders sort to the top
+- [x] scratch - can playback partial recordings
+- [x] scratch - can to text-to-speech
+- [x] scratch - can do voice recognition
+- [x] Extend motors being on while parts are being moved through the computer
+- [x] Knob moves to keyframes - not shuttling, like before
+
 ## v1.0.21
 2/14/18
 - [x] improved scrubbing support
